@@ -1,0 +1,12 @@
+COLUMNS:
+  R&D Spend: float64
+  Administration: float64
+  Marketing Spend: float64
+  State: object
+  Profit: float64
+  
+
+
+TARGET_COLUMN:
+  name: Profit
+  
